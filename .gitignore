@@ -1,0 +1,12 @@
+# Secrets
+API KEYS/
+
+# Projects (ignored completely)
+Q&A Chatbot Project/
+RAG Project/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
